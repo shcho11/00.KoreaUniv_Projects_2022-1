@@ -1,4 +1,4 @@
-# ML_practices
+# ML_practices_2022
 2022-01 machine learning practices 
 
 2022-1학기 '기계학습' 수업 예/복습 정리, 제출과제 성능개선을 위한 repository 입니다.<br>
