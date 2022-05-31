@@ -2,8 +2,8 @@
 2022-01 machine learning practices 
 
 <ul>
-  <li> 2022-1학기 수업 예/복습 정리, 제출과제 성능개선을 위한 repository </li>
-  <li> 모든 코드는 조송현 본인 작성 </li>
+  <li> my practices at 2022-1st semester's courses, Korea Univ. Graduate School of Computer & Information Technology  
+  <li> including term-projects' outputs of mine </li>
   <li> View Code ! </li>
 
 </ul>
