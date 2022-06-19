@@ -3,7 +3,6 @@
 
 <ul>
   <li> my practices at 2022-1st semester's courses, Korea Univ. Graduate School of Computer & Information Technology  
-  <li> including term-projects' outputs of mine </li>
   <li> View Code ! </li>
 
 </ul>
